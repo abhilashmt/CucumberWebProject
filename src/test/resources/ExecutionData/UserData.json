@@ -1,0 +1,26 @@
+[
+	{
+		"Environment": "Test",
+		"UserRole": "Manager",
+		"UserName": "TestUser1",
+		"Password": "Password1"
+	},
+	{
+		"Environment": "Test",
+		"UserRole": "User",
+		"UserName": "TestUser2",
+		"Password": "Password2"
+	},
+	{
+		"Environment": "UAT",
+		"UserRole": "Manager",
+		"UserName": "TestUser3",
+		"Password": "Password3"
+	},
+	{
+		"Environment": "PROD",
+		"UserRole": "Manager",
+		"UserName": "TestUser4",
+		"Password": "Password4"
+	}
+]

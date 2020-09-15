@@ -1,0 +1,16 @@
+[
+	{
+		"Environment": "Test",
+		"Url": "https://test.com/"
+	},
+
+	{
+		"Environment": "UAT",
+		"Url": "https://uat.com/"
+	},
+
+	{
+		"Environment": "PROD",
+		"Url": "https://prod.com/"
+	}
+]

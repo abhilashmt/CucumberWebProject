@@ -1,0 +1,52 @@
+{
+	"LoginPage": 
+	{
+		"Username_textbox": 
+		{
+			"PropertyType": "Xpath",
+			"ControlProperty": ""
+		},
+
+		"Password_textbox": 
+		{
+			"PropertyType": "Xpath",
+			"ControlProperty": ""
+		},
+
+		"Submit_button": 
+		{
+			"PropertyType": "Xpath",
+			"ControlProperty": ""
+		}
+	},
+
+	"LandingPage": 
+	{
+		"Search_textbox": 
+		{
+			"PropertyType": "Id",
+			"ControlProperty": "header-search-input"
+		},
+
+		"Search_button": 
+		{
+			"PropertyType": "Id",
+			"ControlProperty": "header-desktop-search-button"
+		}
+	},
+
+	"HomePage": 
+	{
+		"Maps_link": 
+		{
+			"PropertyType": "Xpath",
+			"ControlProperty": "//li[text()='MAPS']"
+		},
+
+		"Search_textbox": 
+		{
+			"PropertyType": "Xpath",
+			"ControlProperty": "//input[@class='search-input']"
+		}
+	}
+}
